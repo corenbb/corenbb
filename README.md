@@ -1,0 +1,1 @@
+Hello, I am Coren. I'm a a tech & cybersecurity researcher, as well as a recreational coder. I am currently learning Rust, and plan on creating more projects in the future, which will be found here as well as on my website: coren.blog
